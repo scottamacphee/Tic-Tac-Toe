@@ -4,7 +4,7 @@
 
 **VERSION or DATE:** 1.0
 
-**HOW TO START THIS PROJECT:** In a terminal or terminal emulator run the tictactoe.java class (in linux or mac terminal "java tictactoe.java")
+**HOW TO START THIS PROJECT:** In a terminal or terminal emulator run the tictactoe.java class 
 
 **AUTHORS:** Scott MacPhee
 
